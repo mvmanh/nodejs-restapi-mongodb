@@ -1,0 +1,8 @@
+{
+    "env": {
+        "server":"http://localhost",
+        "port": "3000",
+        "jwt_secret":"mvmanh@GMA!L",
+        "jwt_duration":"1h"
+    }
+}
